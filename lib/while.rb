@@ -3,6 +3,4 @@ def using_while
 	while levitation_force<=10
 		puts "Levitation force less than 10"
 	end
-	#your code here
-	
 end
